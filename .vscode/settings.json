@@ -1,0 +1,5 @@
+{
+  "mdPasteEnhanced.basePath": "${currentFileDir}",
+  "mdPasteEnhanced.path": "${currentFileDir}/assets",
+  "mdPasteEnhanced.renderPattern": "{{< figure src=\"../${imagePath}\" caption=\"\" attr=\"\" attrlink=\"\" >}}"
+}
