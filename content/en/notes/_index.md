@@ -12,6 +12,5 @@ menu:
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}} -->
 
-
 This section includes all taken notes.
 

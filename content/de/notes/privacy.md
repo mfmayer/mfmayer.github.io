@@ -7,7 +7,7 @@ description: >
   Informationen gemäß <a href="https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504">Datenschutz-Grundverordnung (DSGVO) Abschnitt 2, Artikel 13 und 14</a>.
 ---
 
-Diese Seite dient als meine persönliche Wissensdatenbank, die ich hier Interessierten öffentlich zugänglich mache. Sofern zu diesem Zweck nicht technisch notwendig, habe ich kein Interesse persönliche Daten zu erheben, zu verarbeiten oder gar zu speichern und vermeide dies auch soweit mir das möglich ist und insofern ich das zu verhindern weiß. Aus technischen Gründen lässt es sich leider jedoch nicht komplett vermeiden, dass beim Aufruf von Internetseiten (einschließlich dieser), teils auch personenbezogene Daten wie ihre IP-Adresse an den Server übertragen werden, auf dem diese Webseite gespeichert ist.
+Diese Seite *Meine Wissenskammer* dient als meine persönliche Wissensdatenbank, die ich hier Interessierten öffentlich zugänglich mache. Sofern zu diesem Zweck nicht technisch notwendig, habe ich kein Interesse persönliche Daten zu erheben, zu verarbeiten oder gar zu speichern und vermeide dies auch soweit mir das möglich ist und insofern ich das zu verhindern weiß. Aus technischen Gründen lässt es sich leider jedoch nicht komplett vermeiden, dass beim Aufruf von Internetseiten (einschließlich dieser), teils auch personenbezogene Daten wie ihre IP-Adresse an den Server übertragen werden, auf dem diese Webseite gespeichert ist.
 
 ## Kontaktdaten des Verantwortlichen
 
@@ -42,13 +42,16 @@ Auf dieser Seite werden keine Cookies benutzt.
 
 ## Externe Links
 
-Diese Seite kann Links zu anderen Webseiten enthalten (z.B. bei Quellenagaben von Informationen). Beim Folgen dieser Links (entspricht dem Aufruf der verlinkten externen Webseite) werden keine persönlichen Daten von dieser Webseite an die externe Webseite weitergegeben, trotzdem kann jede dieser externen Seiten andere Daten von Ihnen erheben und individuelle Datenschutzpraktiken und Inhalte haben, über die der Verantwortliche dieser Webseite keine Kontrolle hat und daher für diese auch nicht verantwortlich ist. Bitte beachten Sie daher beim Besuch externer Webseiten auch deren jeweilige Datenschutzerklärung.
-n dieser Webseite statt.
+Diese Seite *Meine Wissenskammer* kann Links zu anderen Webseiten enthalten (z.B. bei Quellenagaben oder zum Melden eines Problems auf den Unterseiten dieser Webseite). Beim Folgen dieser Links (entspricht dem Aufruf der verlinkten externen Webseite) werden keine persönlichen Daten von dieser Webseite an die externe Webseite weitergegeben, trotzdem kann jede dieser externen Seiten andere Daten von Ihnen erheben und individuelle Datenschutzpraktiken und Inhalte haben, über die der Verantwortliche der Webseite *Meine Wissenskammer* keine Kontrolle hat und daher für diese auch nicht verantwortlich ist. Bitte beachten Sie daher beim Besuch externer Webseiten auch deren jeweilige Datenschutzerklärung.
 
 ## Betroffenenrechte
 
 Gemäß Datenschutzrecht haben Sie eine Reihe von Betroffenrechte.
 
-Dazu gehören laut [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504) das Recht *auf Auskunft seitens des Verantwortlichen über die betreffenden personenbezogenen Daten sowie auf Berichtigung oder Löschung oder auf Einschränkung der Verarbeitung oder eines Widerspruchsrechts gegen die Verarbeitung sowie des Rechts auf Datenübertragbarkeit*.
+Dazu gehören laut [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504) unter Anderen das Recht "*auf Auskunft seitens des Verantwortlichen über die betreffenden personenbezogenen Daten sowie auf Berichtigung oder Löschung oder auf Einschränkung der Verarbeitung oder eines Widerspruchsrechts gegen die Verarbeitung sowie des Rechts auf Datenübertragbarkeit*".
 
 Diese finden Sie auch nochmal besser erklärt auf den Seiten des [LfDI Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/ihre-betroffenenrechte/)], wo sie auch von Ihrem Beschwerderecht gebrauch machen können, falls Sie der Auffassung sind, dass auf dieser Seite datenschutzrechtliche Vorschriften nicht korrekt beachtet wurden.
+
+Möchten Sie eines oder mehrere Ihrer Betroffenenrechte geltend machen oder haben Fragen, Anregungen oder sonst ein Anliegen bezüglich dieser Seite, Sie finden meine Kontaktdaten oben.
+
+Auch steht es Ihnen frei, zu dieser (oder zu jeder anderen Unterseite) im zugehörigen GitHub Repository dieser Webseite ein Issue zu erstellen, bzw. ein Problem zu melden. Den *Problem melden* Link finden Sie normalerweise auf der rechten Seite. Beachten Sie dabei, dass falls Sie das tun, es sich hierbei um eine externe Seite handelt (*Github*) und es gelten beim Besuch die Datenschutzerklärung von *Github*. Ein dort eingestelltes Issue/Problem wird Teil des öffentlichen Repositories und alles was sie dort schreiben wird damit öffentlich einsehbar und kann dort öffentlich diskutiert werden (wie das gesamte Repository und alle Quellen dieser Seite).

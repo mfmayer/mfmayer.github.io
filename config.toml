@@ -60,7 +60,7 @@ anchor = "smart"
 [languages]
 [languages.de]
 contentDir = "content/de"
-title = "Know-How Knoten"
+title = "Meine Wissenskammer"
 description = "Meine Wissensdatenbank mit How-Tos, Know-how und anderen Notizen"
 languageName = "Deutsch"
 # Weight used for sorting.
@@ -69,7 +69,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 [languages.en]
 contentDir = "content/en"
-title = "Know-How Knot"
+title = "My Knowledge Chamber"
 description = "My knowledge database containing how-tos, know-how, and other notes"
 languageName = "English"
 # Weight used for sorting.

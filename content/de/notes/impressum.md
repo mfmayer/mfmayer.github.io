@@ -1,7 +1,6 @@
 ---
 title: Impressum
 linkTitle: Impressum
-weight: 999
 date: 2023-01-12
 hide_feedback: true
 description: >
