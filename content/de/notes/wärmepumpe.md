@@ -3,7 +3,7 @@ title: Wärmepumpe
 description: Informationen zu meiner Wärmepumpe *Buderus WPL6 IK* und wie ich sie optimierte
 #date: 2023-01-18T19:11:01.499Z
 #lastmod: 2023-01-19T16:21:45.241Z
-draft: true
+draft: false
 tags:
   - ""
 ---
