@@ -14,7 +14,7 @@ Das aus meiner Sicht größte Problem mit Wärmepumpen ist, dass sie irgendwer a
 
 Die folgende stark vereinfachte Darstellung zeigt den Vor- und den Rücklauf. Von der Wärmepumpe kommend wird der Vorlauf, je nach Stellung eines 3-Wege-Ventils, entweder durch den Wärmetauscher des Warmwasserspeichers oder durch die Fußbodenheizungen der einzelnen Räume geleitet. Da laut Energiesparverordnung eine Einzelraumregelung vorgeschrieben ist, gibt es an jedem Raum auch einen Stellantrieb (Ventil), das anhand von Raumthermostaaten gesteuert wird. 
 
-{{< figure src="../assets/wärmepumpe.drawio.svg" caption="" attr="" attrlink="" >}}
+{{< figure src="assets/wärmepumpe.drawio.svg" caption="" attr="" attrlink="" >}}
 
 ### Vorlauf, Rücklauf & Heizkurve
 
