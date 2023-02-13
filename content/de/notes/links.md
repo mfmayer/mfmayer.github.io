@@ -18,3 +18,4 @@ Bitte beachten sie, dass es sich hier um **externe Links** zu für mich interess
 ### Markdown, Hugo, Docsy
 
 * [Docsy Optimierungen (Natenoms Blog)](https://blog.natenom.com/2022/03/mein-neues-wiki-mit-hugo-neue-suche-und-andere-optimierungen/)
+* [Hugo Resource Resolving (Markus A. Wolf Blog)](https://www.markusantonwolf.com/blog/guide-for-different-ways-to-access-your-image-resources/)
