@@ -4,8 +4,9 @@ description: Informationen zu meiner Wärmepumpe *Buderus WPL6 IK* und wie ich s
 #date: 2023-01-18T19:11:01.499Z
 #lastmod: 2023-01-19T16:21:45.241Z
 draft: false
+weight: 50
 tags:
-  - ""
+  - "Heizung"
 ---
 
 Das aus meiner Sicht größte Problem mit Wärmepumpen ist, dass sie irgendwer auch entsprechend konfigurieren sollte. Oft werden die Wärmepumpen aber wohl nur schnell aufgestellt, an die Fußbodenheizung angeschlossen, größtenteils Voreinstellungen übernommen und die Thermostaten in den Zimmern sollen den Rest erledigen. Das funktioniert auch, aber meistens weder effizient noch Materialschonend.
@@ -14,7 +15,7 @@ Das aus meiner Sicht größte Problem mit Wärmepumpen ist, dass sie irgendwer a
 
 Die folgende stark vereinfachte Darstellung zeigt den Vor- und den Rücklauf. Von der Wärmepumpe kommend wird der Vorlauf, je nach Stellung eines 3-Wege-Ventils, entweder durch den Wärmetauscher des Warmwasserspeichers oder durch die Fußbodenheizungen der einzelnen Räume geleitet. Da laut Energiesparverordnung eine Einzelraumregelung vorgeschrieben ist, gibt es an jedem Raum auch einen Stellantrieb (Ventil), das anhand von Raumthermostaaten gesteuert wird. 
 
-{{< figure src="assets/wärmepumpe.drawio.svg" caption="Bild 1" attr="" attrlink="" >}}
+{{<img src="assets/wärmepumpe.drawio.svg" attr="" attrlink="" class="px-3">}}
 
 ### Vorlauf, Rücklauf
 
@@ -31,7 +32,7 @@ Um die Heizkurve einzustellen gibt es bei der WPL6 IK Wärmepumpe die folgenden 
 
 Das folgende Diagramm zeigt einige Beispiele für deren Werte:
 
-{{< figure src="assets/heizkurve.drawio.svg" caption="" attr="" attrlink="" >}}
+{{<img src="assets/heizkurve.drawio.svg" attr="" attrlink="" class="px-3">}}
 
 ### Warmwasserbereitung
 

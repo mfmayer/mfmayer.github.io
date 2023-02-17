@@ -13,7 +13,7 @@
             end -}} {{- with .Get "height" }} height="{{ . }}" {{ end -}} />
         {{- if .Get "link" }}</a>{{ end -}}
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
-    <figcaption class="text-center">
+    <figcaption>
         {{ with (.Get "title") -}}
         <h4>{{ . }}</h4>
         {{- end -}}
@@ -28,4 +28,4 @@
         {{- end }}
     </figcaption>
     {{- end }}
-</figure>
+    </figure>

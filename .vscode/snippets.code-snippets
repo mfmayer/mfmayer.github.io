@@ -1,0 +1,10 @@
+{
+	"Insert Figure": {
+		"scope": "markdown",
+		"prefix": "img",
+		"body": [
+			"{{<img src=\"$1\" attr=\"$2\" attrlink=\"$3\" class=\"px-3\">}}"
+		],
+		"description": "Insert a image/figure"
+	},
+}

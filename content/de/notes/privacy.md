@@ -3,6 +3,7 @@ title: "Datenschutzerklärung"
 linkTitle: "Datenschutz"
 date: 2023-01-12
 hide_feedback: true
+toc_hide: true
 description: >
   Informationen gemäß <a href="https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504">Datenschutz-Grundverordnung (DSGVO) Abschnitt 2, Artikel 13 und 14</a>.
 ---

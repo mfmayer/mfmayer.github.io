@@ -3,6 +3,7 @@ title: Impressum
 linkTitle: Impressum
 date: 2023-01-12
 hide_feedback: true
+toc_hide: true
 description: >
   Allgemeine Informationspflichten laut [§ 5 Telemediengesetz (TMG)](https://www.gesetze-im-internet.de/tmg/__5.html).
 ---

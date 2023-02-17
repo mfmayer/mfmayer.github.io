@@ -1,7 +1,19 @@
 {
+  "markdown.styles": [
+    "markdown.css"
+  ],
+  "[markdown]": {
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100
+  },
+  "html.format.enable": false,
   "mdPasteEnhanced.basePath": "${currentFileDir}",
   "mdPasteEnhanced.path": "${currentFileDir}/assets",
-  "mdPasteEnhanced.renderPattern": "{{< figure src=\"../${imagePath}\" caption=\"\" attr=\"\" attrlink=\"\" >}}",
+  "mdPasteEnhanced.renderPattern": "${imagePath}",
+  "workbench.editorAssociations": {
+    "*.drawio.svg": "hediet.vscode-drawio-text",
+    "*.svg": "svgPreviewer.customEditor"
+  },
   "cSpell.language": "en,de",
   "cSpell.enableFiletypes": [
     "!asciidoc",
